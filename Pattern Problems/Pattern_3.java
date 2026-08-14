@@ -3,7 +3,7 @@
     * *
     * * *
     * * * *
-    * * * * * *
+    * * * * * 
 */
 
 public class Pattern_3 {
